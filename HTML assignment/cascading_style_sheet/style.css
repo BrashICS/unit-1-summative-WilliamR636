@@ -39,10 +39,15 @@ body{
 
 button{
     text-align: center;
-    margin-left: 45%;
-    margin-right: 45%;
     color: blue;
     background-color: aquamarine;
     font-size: large;
     font-family: fantasy;
+    width: 10%;
+    margin: auto;
+}
+
+flex-container{
+    display: flex;
+    justify-content: center;
 }
